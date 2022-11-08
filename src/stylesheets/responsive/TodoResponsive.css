@@ -1,0 +1,47 @@
+@media (max-width: 767px){
+    *{
+        font-size: 10px;
+    }
+
+    .todoContainer {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 100px;
+    }
+
+    .todoItems {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        width: 320px;
+    }
+
+    .todoInput {
+        display: flex;justify-content: center;
+        margin: 15px 0 15px 0;
+        width: 370px;
+    }
+
+    .textInput {
+        width: 220px;
+        height: 35px;
+        margin-right: 10px;
+        padding: 3px 3px 3px 10px;
+        border-radius: 5px;
+        border: 1.9px solid rgba(136, 136, 136, 0.701);
+        box-shadow: none;
+        outline: none;
+    }
+
+    .submitInput {
+        background-color: rgb(68, 71, 219);
+        height: 33px;
+    }
+
+    .submitInput:hover {
+        background-color:  rgb(59, 61, 190);
+    }
+    
+  }
+

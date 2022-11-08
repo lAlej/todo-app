@@ -1,0 +1,32 @@
+@media (max-width: 767px){
+
+    .noEditedContainer  {
+        width: 290px;
+    }
+
+    .titleContainer {
+        text-align: left;
+        width: 200px;
+    }
+
+    .noEditedDelete {
+        padding: 4px 10px;
+        margin: 5px 5px  5px 3px;
+    }
+
+    .noEditedEdit {
+        padding: 4px 10px;
+        margin: 5px 5px  5px 3px;
+    }
+
+
+    .editedContainer {
+        width: 290px;
+
+    }
+
+    .editedButton {
+        padding: 4px 10px;
+        margin: 5px 5px  5px 3px;
+    }
+  }
