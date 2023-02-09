@@ -7,6 +7,9 @@ Este proyecto fue realizado utilizando HTML, CSS, Javascript y ReactJS. Es una l
 
 * [LinkedIn](https://www.linkedin.com/in/lapee/)
 
+## Ver ejemplo en vivo 💻
+- [https://lalej.github.io/todo-app/](https://lalej.github.io/todo-app/)
+
 ## Instalación 📀
 Este proyecto es realizado con React, por lo que tiene que descargarse e iniciarse por la terminal.
 
