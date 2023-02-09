@@ -23,6 +23,7 @@ function TodoConfig({ config, onDelete, edited, checkbox}) {
 
     function handleClick () {
       setEdit(false);
+      
       edited(config.id, update);
     }
 
